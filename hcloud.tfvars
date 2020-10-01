@@ -1,0 +1,5 @@
+hcloud_token = ""
+hetzner_dns_token = ""
+dns_zone = "example.com"
+record_name = "test"
+ssh_key = ""
